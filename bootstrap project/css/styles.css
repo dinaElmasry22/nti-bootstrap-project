@@ -1,0 +1,26 @@
+.intro {
+    background-image: url(../images/1.jpg);
+    height: 80vh;
+}
+.choose-us-section {
+    padding: 90px auto;
+    background-color: #f0ffff;
+}
+.choose-us i {
+    margin-bottom: 35px;
+    font-size: 40px;
+    box-shadow: 0 0 0 5px hsl(45, 100%, 59%),
+                0 0 0 10px hsl(45, 100%, 70%),
+                0 0 0 15px hsl(45, 100%, 80%),
+                0 0 0 20px hsl(45, 100%, 90%),
+                0 0 0 23px hsl(45, 100%, 98%);
+}
+.contact-icons a {
+    width: 30px;
+    height: 30px;
+}
+.contact-sec {
+    background-image: url(../images/6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
